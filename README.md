@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muqaddas rahim
+- 👋 Hi, I’m Muqaddas Rahim
   
 - ### 👀 What I'm Interested In:
 - 📱 Mobile & Web App Development  
